@@ -32,8 +32,22 @@
 
 ###
 
-<p align="left">- 🔥 Graphic Designer, Web Designer, Web and Mobile Developer.<br>  <br>- 🔭 I’m working in corporative name of iDEAL Designer, in Design, Publicity & Image<br>  <br>- 💪 **JavaScript, Typescript, PHP, HTML, CSS** are my strong points<br>  <br>- ⚡ **Allways motivated!!🤩**<br>  <br>- 🔭 I’m currently working on Personal Projects<br>  <br>- 🌱 I’m currently learning Node JS<br>  <br>- 💬 Ask me about Design Web Design and Website and App Development<br>  <br>- ⚡ Fun fact</p>
-
+  - 🔥 Graphic Designer, Web Designer, Web and Mobile Developer
+  
+  - 🔭 I’m working in corporative name of iDEAL Designer, in Design, Publicity & Image
+  
+  - 💪 **JavaScript, Typescript, PHP, HTML, CSS** are my strong points
+  
+  - ⚡ **Allways motivated!!🤩**
+  
+  - 🔭 I’m currently working on Personal Projects
+  
+  - 🌱 I’m currently learning Node JS
+  
+  - 💬 Ask me about Design Web Design and Website and App Development
+    
+  - ⚡ Fun fact
+  
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
