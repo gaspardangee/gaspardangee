@@ -74,6 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 
@@ -106,11 +108,3 @@
 
 - 🔥 Graphic Designer, Web Designer, Web and Mobile Developer.
 
-- 🔭 I’m working in corporative name of iDEAL Designer, in Design, Publicity & Image
-
-- 💪 **JavaScript, Typescript, PHP, HTML, CSS** are my strong points
-
-- ⚡ **Allways motivated!!🤩**
-
-- 👨‍💻 words are just words. Take a look at what I've done!
--->
