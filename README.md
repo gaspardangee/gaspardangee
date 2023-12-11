@@ -42,7 +42,7 @@
   
   - 🔭 I’m currently working on Personal Projects
   
-  - 🌱 I’m currently learning Node JS
+  - 🌱 I’m currently learning Node JS And Python
   
   - 💬 Ask me about Design Web Design and Website and App Development
     
