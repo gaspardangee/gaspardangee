@@ -139,10 +139,20 @@
         "WEBPUSH"
       ],*/
   "terminal.integrated.fontSize": 14,
-"terminal.integrated.fontFamily": "JetBrains Mono Nerd Font",
+"terminal.integrated.fontFamily": "JetBrains Mono",
 "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
 "workbench.iconTheme": "symbols",
-"workbench.colorTheme": "Min Dark"
+"workbench.colorTheme": "Min Dark",
+"terminal.integrated.env.windows": {},
+"typescript.updateImportsOnFileMove.enabled": "always",
+"git.enableSmartCommit": true,
+"git.confirmSync": false,
+"[javascript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[typescriptreact]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
 }
