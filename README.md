@@ -36,7 +36,7 @@
   
   - 🔭 I’m working in corporative name of iDEAL Designer, in Design, Publicity & Image
   
-  - 💪 **JavaScript, Typescript, PHP, HTML, CSS** are my strong points
+  - 💪 **React JS, React Native, JavaScript, Typescript, PHP, HTML, CSS** are my strong points
   
   - ⚡ **Allways motivated!!🤩**
   
